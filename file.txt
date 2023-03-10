@@ -2,4 +2,4 @@ hello
 this is my first text written on Linux
 this is a change :)
 nice to meet you
-and no
+and nothing
